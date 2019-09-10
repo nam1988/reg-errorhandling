@@ -4,10 +4,8 @@
         <can_delegate>true</can_delegate>
         <description/>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
-        <limit_concurrent_sessions>false</limit_concurrent_sessions>
         <name>x_indexsan.user</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
@@ -15,20 +13,14 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-09 22:09:44</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>c3eccded533333008206ddeeff7b1252</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_indexsan.user</sys_name>
         <sys_package display_value="indexsan" source="x_indexsan">91ecc9a1537333008206ddeeff7b1227</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="indexsan">91ecc9a1537333008206ddeeff7b1227</sys_scope>
         <sys_update_name>sys_user_role_c3eccded533333008206ddeeff7b1252</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-09-09 22:09:44</sys_updated_on>
-        <u_2fa>false</u_2fa>
-        <u_managed_by/>
-        <u_restricted>false</u_restricted>
-        <u_role_owner/>
     </sys_user_role>
 </record_update>
