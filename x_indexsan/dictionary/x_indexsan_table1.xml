@@ -6,7 +6,7 @@
         <index name="index">
             <element name="col2"/>
         </index>
-        <index label="index2">
+        <index name="index2">
             <element name="col1"/>
         </index>
     </element>
