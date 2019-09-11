@@ -2,7 +2,7 @@
     <element label="table1" max_length="40" name="x_indexsan_table1" type="collection">
         <element choice="1" label="Choice1" max_length="40" name="choice1" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Test1" sequence="0" value="Test1" name="test1"/>
+                <element inactive_on_update="false" label="Test1" sequence="0" value="Test1"/>
                 <element inactive_on_update="false" label="Test2" sequence="1" value="Test2"/>
                 <element inactive_on_update="false" label="Test3" sequence="2" value="Test3"/>
             </choice>
