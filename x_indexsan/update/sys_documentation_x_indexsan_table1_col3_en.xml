@@ -11,13 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-09-09 22:46:20</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>dae625f1137f73009d4639fed144b043</sys_id>
+            <sys_id>5a3d3ecd2c000010964fa2c3166c2e65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Col3</sys_name>
             <sys_package display_value="indexsan" source="x_indexsan">91ecc9a1537333008206ddeeff7b1227</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="indexsan">91ecc9a1537333008206ddeeff7b1227</sys_scope>
             <sys_update_name>sys_documentation_x_indexsan_table1_col3_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

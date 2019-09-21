@@ -2,9 +2,6 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
-        <description/>
-        <editor_groups/>
-        <editors/>
         <enforce_license>none</enforce_license>
         <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
@@ -15,7 +12,6 @@
         <menu/>
         <name>indexsan</name>
         <private>false</private>
-        <restrict_runtime_access>false</restrict_runtime_access>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_indexsan</scope>
@@ -30,7 +26,6 @@
         <sys_created_on>2019-09-09 22:09:36</sys_created_on>
         <sys_id>91ecc9a1537333008206ddeeff7b1227</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_owner/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-09-09 22:09:36</sys_updated_on>
         <template/>
@@ -39,7 +34,5 @@
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
-        <viewer_groups/>
-        <viewers/>
     </sys_app>
 </record_update>
